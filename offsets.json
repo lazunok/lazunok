@@ -1,0 +1,10 @@
+{
+  "sv_cheats": "engine2.dll+545C48",
+  "fog_enable": "engine2.dll+54E978",
+  "dota_use_particle_fow": "client.dll+34710D8",
+  "fow_client_nofiltering": "client.dll+3477028",
+  "dota_camera_distance": "client.dll+3677A18",
+  "r_farz": "client.dll+3450784",
+  "dota_range_display": "client.dll+3456BD4",
+  "vbe": "engine2.dll+00588940,0x0,0x28,0x90,0x170,0x0,0x1E4"
+}
